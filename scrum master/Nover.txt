@@ -1,21 +1,21 @@
 Hari 1 dan 2 : Nover Halomoan Sebagai Scrum Master :
 
 1. Riko Ardianto Taarigan :
-	- Kemarin Ngerjain:
-	- Yang Dikerjakan :
-	- Masalah :
+	- Kemarin Ngerjain:Membuat File Bespoke
+	- Yang Dikerjakan : Membuat Repositori Server
+	- Masalah : Tidak Ada
 
 2. Teguh Dana Prayuda :
-	- Kemarin Ngerjain:
-	- Yang Dikerjakan :
-	- Masalah :
+	- Kemarin Ngerjain: Install Node JS
+	- Yang Dikerjakan : Melakukan Commit dibase 7 pada file HTML
+	- Masalah : 
 
 3. Ijan P Panjaitan :
-	- Kemarin Ngerjain:
-	- Yang Dikerjakan :
-	- Masalah :
+	- Kemarin Ngerjain: Melakukan Pembuatan Trello
+	- Yang Dikerjakan : Melakukan Kolaborasi dalam git
+	- Masalah : sulit melakukan pull dan push
 
 4. Ferdinan Sihorang :
-	- Kemarin Ngerjain:
-	- Yang Dikerjakan :
-	- Masalah :Masih Lama
+	- Kemarin Ngerjain:Membuat Card atau Task Pengerjaan
+	- Yang Dikerjakan : Melakukan Kolaborasi dalam git
+	- Masalah : sulit melakukan pull dan push
