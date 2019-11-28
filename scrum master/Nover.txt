@@ -7,8 +7,8 @@ Hari 1 dan 2 : Nover Halomoan Sebagai Scrum Master :
 
 2. Teguh Dana Prayuda :
 	- Kemarin Ngerjain: Install Node JS
-	- Yang Dikerjakan : Melakukan Hapus File tegu
-	- Masalah : 
+	- Yang Dikerjakan : Melakukan perubahan di file index.html
+	- Masalah :-
 
 3. Ijan P Panjaitan :
 	- Kemarin Ngerjain: Melakukan Pembuatan Trello
