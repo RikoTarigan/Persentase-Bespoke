@@ -17,29 +17,29 @@ Hari 1 :
 	- Yang Dikerjakan : Melakukan Kolaborasi dalam git
 	- Masalah : sulit melakukan pull dan push
 
-4. Ferdinan Sihorang :
+4. Ferdinan Sitohang :
 	- Kemarin Ngerjain:Membuat Card atau Task Pengerjaan
 	- Yang Dikerjakan : Melakukan Kolaborasi dalam git
 	- Masalah : sulit melakukan pull dan push
 
-Hari 2 : Tema Hari ini " Bucin " By : Nover & babang tamvan ferdi
+Hari 2 : 
 
 1. Riko Ardianto Taarigan :
-	- Kemarin Ngerjain:
+	- Kemarin Ngerjain:Membuat Repositori Server
 	- Yang Dikerjakan : 
 	- Masalah : 
 
 2. Teguh Dana Prayuda :
-	- Kemarin Ngerjain: 
+	- Kemarin Ngerjain:Melakukan perubahan di file index.html 
 	- Yang Dikerjakan : 
 	- Masalah :
 
 3. Ijan P Panjaitan :
-	- Kemarin Ngerjain: 
+	- Kemarin Ngerjain:Melakukan Kolaborasi dalam git 
 	- Yang Dikerjakan : 
 	- Masalah : 
 
-4. Ferdinan Sihorang :
-	- Kemarin Ngerjain:
+4. Ferdinan Sitohang :
+	- Kemarin Ngerjain:Melakukan Kolaborasi dalam git
 	- Yang Dikerjakan : 
 	- Masalah : 
