@@ -32,14 +32,14 @@ Hari 2 :
 2. Teguh Dana Prayuda :
 	- Kemarin Ngerjain:Melakukan perubahan di file index.html 
 	- Yang Dikerjakan : Melakukan Edit di Slide 1 pada index.html
-	- Masalah :
+	- Masalah : -
 
 3. Ijan P Panjaitan :
 	- Kemarin Ngerjain:Melakukan Kolaborasi dalam git 
 	- Yang Dikerjakan : Melakukan Edit di Slide 2 pada index.html
-	- Masalah : 
+	- Masalah : -
 
 4. Ferdinan Sitohang :
 	- Kemarin Ngerjain:Melakukan Kolaborasi dalam git
 	- Yang Dikerjakan : Melakukan List pont ke indext.html
-	- Masalah : 
+	- Masalah : -
