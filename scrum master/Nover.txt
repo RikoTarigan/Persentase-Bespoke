@@ -27,7 +27,7 @@ Hari 2 :
 1. Riko Ardianto Taarigan :
 	- Kemarin Ngerjain:Membuat Repositori Server
 	- Yang Dikerjakan : Membuat Desain pada File index.html
-	- Masalah : 
+	- Masalah : -
 
 2. Teguh Dana Prayuda :
 	- Kemarin Ngerjain:Melakukan perubahan di file index.html 
