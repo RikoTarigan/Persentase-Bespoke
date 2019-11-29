@@ -31,7 +31,7 @@ Hari 2 (29 November):
 
 2. Teguh Dana Prayuda :
 	- Kemarin Ngerjain:Melakukan perubahan di file index.html 
-	- Yang Dikerjakan : Melakukan Edit di Slide 1 pada index.html
+	- Yang Dikerjakan : Melakukan Edit Slide 1 dan 2 dan menambahkan halaman slide pada index.html
 	- Masalah : -
 
 3. Ijan P Panjaitan :
