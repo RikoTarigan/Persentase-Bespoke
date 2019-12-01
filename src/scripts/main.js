@@ -8,9 +8,14 @@ var hash = require('bespoke-hash');
 var prism = require('bespoke-prism');
 var multimedia = require('bespoke-multimedia');
 var extern = require('bespoke-extern');
+var progress = require('bespoke-progress');
 
 // Bespoke.js
-bespoke.from({ parent: 'article.deck', slides: 'section' }, [
+bespoke.from({
+  parent: 'article.deck',
+  slides: 'section'
+}, [
+  progress(),
   classes(),
   nav(),
   scale(),
@@ -20,3 +25,12 @@ bespoke.from({ parent: 'article.deck', slides: 'section' }, [
   multimedia(),
   extern(bespoke)
 ]);
+bespoke.from('article', [
+  progress('vertical')
+]);
+// var bespoke = require('bespoke'),
+//   progress = require('bespoke-progress');
+
+// bespoke.from('article', [
+//   progress()
+// ]);
