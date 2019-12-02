@@ -1,0 +1,45 @@
+Nover Halomoan Sebagai Scrum Master (28 November - 29 November 2019) : Task in Trello
+
+Hari 1 (28 November):
+
+1. Riko Adrianto Tarigan :
+	- Kemarin Ngerjain:Membuat File Bespoke
+	- Yang Dikerjakan : Membuat Repositori Server
+	- Masalah : Tidak Ada
+
+2. Teguh Dana Prayuda :
+	- Kemarin Ngerjain: Install Node JS
+	- Yang Dikerjakan : Melakukan perubahan di file index.html
+	- Masalah :Tidak Ada
+
+3. Ijan P Panjaitan :
+	- Kemarin Ngerjain: Melakukan Pembuatan Trello
+	- Yang Dikerjakan : Melakukan Kolaborasi dalam git
+	- Masalah : sulit melakukan pull dan push
+
+4. Ferdinan Sitohang :
+	- Kemarin Ngerjain:Membuat Card atau Task Pengerjaan
+	- Yang Dikerjakan : Melakukan Kolaborasi dalam git
+	- Masalah : sulit melakukan pull dan push
+
+Hari 2 (29 November): 
+
+1. Riko Adrianto Tarigan :
+	- Kemarin Ngerjain:Membuat Repositori Server
+	- Yang Dikerjakan : Membuat Desain pada File index.html
+	- Masalah : -
+
+2. Teguh Dana Prayuda :
+	- Kemarin Ngerjain:Melakukan perubahan di file index.html 
+	- Yang Dikerjakan : Melakukan Edit Slide 1 dan 2 dan menambahkan halaman slide pada index.html
+	- Masalah : -
+
+3. Ijan P Panjaitan :
+	- Kemarin Ngerjain:Melakukan Kolaborasi dalam git 
+	- Yang Dikerjakan : Melakukan Edit di Slide 2 pada index.html
+	- Masalah : -
+
+4. Ferdinan Sitohang :
+	- Kemarin Ngerjain:Melakukan Kolaborasi dalam git
+	- Yang Dikerjakan : Melakukan List pont ke indext.html
+	- Masalah : -

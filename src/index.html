@@ -6,17 +6,107 @@
   <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
   <title>Belajar TKPPL</title>
   <link rel="stylesheet" type="text/css" href="build/build.css">
+  <style>
+    #header {
+      text-align: center;
+    }
+
+    .animasi {
+      width: 100px;
+      height: 100px;
+      background: red;
+      position: relative;
+      -webkit-animation: myfirst 5s 2;
+      /* Safari 4.0 - 8.0 */
+      -webkit-animation-direction: alternate;
+      /* Safari 4.0 - 8.0 */
+      animation: myfirst 5s 2;
+      animation-direction: alternate;
+    }
+
+    /* DARI W3SChool */
+    /* Safari 4.0 - 8.0 */
+    @-webkit-keyframes myfirst {
+      0% {
+        background: red;
+        left: 0px;
+        top: 0px;
+      }
+
+      25% {
+        background: yellow;
+        left: 200px;
+        top: 0px;
+      }
+
+      50% {
+        background: blue;
+        left: 200px;
+        top: 200px;
+      }
+
+      75% {
+        background: green;
+        left: 0px;
+        top: 200px;
+      }
+
+      100% {
+        background: red;
+        right: 0px;
+        top: 0px;
+      }
+    }
+
+    @keyframes myfirst {
+      0% {
+        background: red;
+        right: 0px;
+        bottom: 0px;
+      }
+
+      25% {
+        background: yellow;
+        right: 200px;
+        bottom: 0px;
+      }
+
+      50% {
+        background: blue;
+        righ: 200px;
+        top: 200px;
+      }
+
+      75% {
+        background: green;
+        right: 0px;
+        top: 200px;
+      }
+
+      100% {
+        background: red;
+        right: 100px;
+        top: 0px;
+      }
+    }
+
+  </style>
 </head>
 
 <body>
+
   <article class="deck">
     <section>
-      <h1>
-        <center>
-          Presentation Technologi Collaboration for Software Development
-        </center>
+     <div class="animasi"></div>
+      <h1 id="header">
+        Technologi Collaboration for Software Development
       </h1>
+    </section>
+
+    <section>
+      <h1>Presented By</h1>
       <ul class="build build-items">
+
         <li>1. Deskripsi Product</li>
         <li>2. Kegunaan/Fungsi Product Smarthome</li>
         <li>3. Fitur fitur yang ditawarkan</li>
@@ -24,81 +114,93 @@
         <li>5. Analisa kelebihan dan kekurangan product</li>
         <li>6. Analisa Kegunaan kompetitif dibandingkan product pesaing</li>
         <li>7. </li>
+
+        <!-- <h2>MY TEAM</h2>
+          <li>Nover Halomoan</li>
+          <li>Riko Adrianto</li>
+          <li>Teguh Dana Prayuda</li>
+          <li>Ferdinan Roynaldo</li>
+          <li>Ijan Panjaitan</li> -->
+
       </ul>
     </section>
 
+
+
     <section>
-      <h2>Images</h2>
-      <img src="images/bespoke-logo.jpg">
+      <center>
+        <h2>
+          Netst Thermostat
+        </h2>
+      </center>
+      Netst Thermostat adalah sebuah alat yang dapat digunakan untuk menyesuaikan suhu didalam ruangan. kemampuan utama
+      dari alat ini adalah mempelajari dan menyesuaikan jadwal penggunaan AC atau penghangat ruangan oleh pengguna.
+      Fungsi ini mempermudah pengguna untuk melakukan pengaturan secara manual dan menurut desainer Nest, thermostat ini
+      akan meningkatkan efisiensi penggunaan energi secara signifikan dibanding thermostat konvensional. Nest akan
+      menampilkan logo daun hijau ketika pengguna memutar tombol fungsi yang lebih efisien dan membantu mengatur
+      temperatur rumah sesuai keinginan pengguna.
+      Nest Thermostat dilengkapi dengan sensor gerak yang mampu mendeteksi keberadaan orang di rumah dan memungkinkan
+      pengaturan temperatur ruangan secara otomatis. Nest juga dilengkapi dengan Wi-Fi yang memungkinkan pengguna untuk
+      mengontrol thermostat tersebut melalui aplikasi smartphone dan tablet. Tombol pada pengaturan di thermostat
+      tersebut akan berubah menjadi merah ketika penghangat ruangan menyala dan biru ketika AC menyala.
     </section>
 
     <section>
-      <h2>Keyboard Interaction</h2>
-      <h3>Powered by <a href="https://github.com/bespokejs/bespoke-keys">bespoke-keys</a></h3>
+      <li>2. Kegunaan/Fungsi Product Smarthome</li>
     </section>
 
     <section>
-      <h2>Touch Interaction</h2>
-      <h3>Powered by <a href="https://github.com/bespokejs/bespoke-touch">bespoke-touch</a></h3>
+      <li>3. Fitur fitur yang ditawarkan</li>
     </section>
 
     <section>
-      <h2>Responsive Slides</h2>
-      <h3>Powered by <a href="https://github.com/bespokejs/bespoke-scale">bespoke-scale</a></h3>
+      <li>4. Jelaskan Spesifikasi teknnologi-teknologi yang digunakan pada product tersebut</li>
     </section>
 
     <section>
-      <h2>Bullet List</h2>
-      <h3>Powered by <a href="https://github.com/bespokejs/bespoke-bullets">bespoke-bullets</a></h3>
-      <ul class="build build-items">
-        <li>Bullet 1</li>
-        <li>Bullet 2</li>
-        <li>Bullet 3</li>
-      </ul>
+      <li>5. Analisa kelebihan dan kekurangan product</li>
     </section>
 
     <section>
-      <iframe width="640" height="360"
-        src="https://www.youtube.com/embed/AV3kYPutYfs?rel=0&amp;showinfo=0&amp;controls=0&amp;enablejsapi=1&amp;loop=1&amp;playlist=AV3kYPutYfs"
-        frameborder="0" allowfullscreen data-volume="0"></iframe>
+      <li>6. Analisa Kegunaan kompetitif dibandingkan product pesaing</li>
     </section>
 
     <section>
-      <h2>Syntax Highlighting</h2>
-      <h3>Powered by <a href="https://twitter.com/LeaVerou">Lea Verou</a>'s <a
-          href="https://github.com/PrismJS/prism">Prism</a></h3>
-      <pre><code class="language-javascript">
-(function() {
-  function hanoi(n, a, b, c) {
-    return n ? hanoi(n - 1, a, c, b)
-        .concat([[a, b]])
-        .concat(hanoi(n - 1, c, b, a)) : [];
-  }
-  return hanoi(3, 'left', 'right', 'mid')
-    .map(function(d) {
-      return d[0] + ' -&gt; ' + d[1];
-    });
-})();</code></pre>
-    </section>
-
-    <section data-bespoke-hash="named-route">
-      <h2>Named Route</h2>
-      <h3>Powered by <a href="https://github.com/bespokejs/bespoke-hash">bespoke-hash</a></h3>
-      <p>Look up! This route has been named with a <em>data-bespoke-hash</em> attribute.</p>
+      <h2>7</h2>
     </section>
 
     <section>
-      <h2>Just the beginning…</h2><br>
-      <ul class="build build-items">
-        <li>Edit HTML markup in <em class="path">src/index.html</em></li>
-        <li>Edit <a href="http://stylus-lang.com">Stylus</a> styles in <em class="path">src/styles/user.styl</em></li>
-        <li>Edit JavaScript in <em class="path">src/scripts/main.js</em></li>
-      </ul>
-      <br>
-      <ul class="build">
-        <li><strong>Enjoy! :)</strong><a href="https://twitter.com/markdalgleish"> -@markdalgleish</a></li>
-      </ul>
+      <h2>8</h2>
     </section>
+
+    <section>
+      <h2>9</h2>
+    </section>
+
+    <section>
+      <h2>10</h2>
+    </section>
+
+    <section>
+      <h2>11</h2>
+    </section>
+
+    <section>
+      <h2>12</h2>
+    </section>
+
+    <section>
+      <h2>13</h2>
+    </section>
+
+    <section>
+      <h2>14</h2>
+    </section>
+
+    <section>
+      <h2>15</h2>
+    </section>
+
   </article>
 
   <script src="build/build.js"></script>
