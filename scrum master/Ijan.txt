@@ -12,7 +12,7 @@ Hari 1 (2 Desember):
 	- Masalah : File Corrupt, jadi melakukan clone ulang
 
 3. Nover Halomoan :
-	- Kemarin Ngerjain : Melakukan Edit di Slide 2 pada index.html  
+	- Kemarin Ngerjain : membuat card dan menjadi scrum master.
 	- Yang Dikerjakan : Membuat CSS pada index.html
 	- Masalah : File Corrupt, jadi melakukan clone ulang
 
