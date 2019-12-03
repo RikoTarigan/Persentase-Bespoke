@@ -24,20 +24,20 @@ Hari 1 (2 Desember 2019):
 Hari 2 (3 Desember 2019)
 1. Riko Adrianto Tarigan
 	- Kemarin Ngerjain : Membuat animasi pada file index.html  
-	- Yang Dikerjakan : 
-	- Masalah : 
+	- Yang Dikerjakan : Membuat file css eksternal
+	- Masalah : -
 
 2. Teguh Dana Prayuda :
 	- Kemarin Ngerjain : Melakukan Desain pada Index.html  
-	- Yang Dikerjakan : 
-	- Masalah : 
+	- Yang Dikerjakan : Membuat slide Fungsi pada Nets Thermostat
+	- Masalah : -
 
 3. Nover Halomoan :
 	- Kemarin Ngerjain : Membuat CSS pada index.html 
-	- Yang Dikerjakan : 
-	- Masalah : 
+	- Yang Dikerjakan : Menambahkan css dan edit bagian index.html 
+	- Masalah : -
 
 4. Ferdinan Sitohang :
 	- Kemarin Ngerjain : Merancang task pada index.html 
-	- Yang Dikerjakan : 
-	- Masalah : 
+	- Yang Dikerjakan : Edit file index.html dan edit slide fungsi dan kegunaan
+	- Masalah : -
