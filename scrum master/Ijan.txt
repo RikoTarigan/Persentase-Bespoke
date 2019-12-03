@@ -1,6 +1,6 @@
 Ijan P Panjaitan Sebagai Scrum Master (2 Desember - 3 Desember 2019) : Task in Trello
 
-Hari 1 (2 Desember):
+Hari 1 (2 Desember 2019):
 1. Riko Adrianto Tarigan :
 	- Kemarin Ngerjain : Membuat Desain pada File index.html
 	- Yang Dikerjakan : Membuat animasi pada file index.html 
@@ -20,3 +20,24 @@ Hari 1 (2 Desember):
 	- Kemarin Ngerjain : Melakukan List pont ke indext.html 
 	- Yang Dikerjakan : Merancang task pada index.html
 	- Masalah : File Corrupt, jadi melakukan Clone ulang
+
+Hari 2 (3 Desember 2019)
+1. Riko Adrianto Tarigan
+	- Kemarin Ngerjain : Membuat animasi pada file index.html  
+	- Yang Dikerjakan : 
+	- Masalah : 
+
+2. Teguh Dana Prayuda :
+	- Kemarin Ngerjain : Melakukan Desain pada Index.html  
+	- Yang Dikerjakan : 
+	- Masalah : 
+
+3. Nover Halomoan :
+	- Kemarin Ngerjain : Membuat CSS pada index.html 
+	- Yang Dikerjakan : 
+	- Masalah : 
+
+4. Ferdinan Sitohang :
+	- Kemarin Ngerjain : Merancang task pada index.html 
+	- Yang Dikerjakan : 
+	- Masalah : 
