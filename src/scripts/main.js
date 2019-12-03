@@ -25,9 +25,14 @@ bespoke.from({
   multimedia(),
   extern(bespoke)
 ]);
-bespoke.from('article', [
-  progress('vertical')
-]);
+
+// bespoke.from({
+//     parent: 'dev.first'
+//   },
+//   [
+//     progress()
+//   ]
+// )
 // var bespoke = require('bespoke'),
 //   progress = require('bespoke-progress');
 
