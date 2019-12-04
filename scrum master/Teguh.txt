@@ -13,7 +13,7 @@ Hari 1 (4 Desember 2019):
 
 3. Nover Halomoan :
 	- Kemarin Ngerjain : Membuat CSS pada index.html
-	- Yang Dikerjakan : 
+	- Yang Dikerjakan : Mengedit dibeberapa slide pada file index.html
 	- Masalah : -
 
 4. Ferdinan Sitohang :
