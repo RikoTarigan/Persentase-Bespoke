@@ -1,0 +1,43 @@
+Teguh Dana Prayuda Sebagai Scrum Master (4 Desember - 5 Desember 2019) : Task in Trello
+
+Hari 1 (4 Desember 2019):
+1. Riko Adrianto Tarigan :
+	- Kemarin Ngerjain : Membuat animasi pada file index.html 
+	- Yang Dikerjakan : Memperbaiki format penulisan dan menambahkan file videos di file index.html
+	- Masalah : -
+
+2. Ijan P Panjaitan : 
+	- Kemarin Ngerjain : Mengedit beberapa slide di index.html
+	- Yang Dikerjakan : Menambahkan spesifikasi dan mengganti gambar pada file.html
+	- Masalah : -
+
+3. Nover Halomoan :
+	- Kemarin Ngerjain : Membuat CSS pada index.html
+	- Yang Dikerjakan : 
+	- Masalah : -
+
+4. Ferdinan Sitohang :
+	- Kemarin Ngerjain : Merancang task pada index.html
+	- Yang Dikerjakan : Buat judul pada slide 5 dan 6 di file index.html
+	- Masalah : -
+
+Hari 2 (5 Desember 2019)
+1. Riko Adrianto Tarigan
+	- Kemarin Ngerjain :  
+	- Yang Dikerjakan : 
+	- Masalah : -
+
+2. Ijan P Panjaitan :
+	- Kemarin Ngerjain : 
+	- Yang Dikerjakan : 
+	- Masalah : -
+
+3. Nover Halomoan :
+	- Kemarin Ngerjain : 
+	- Yang Dikerjakan : 
+	- Masalah : -
+
+4. Ferdinan Sitohang :
+	- Kemarin Ngerjain : 
+	- Yang Dikerjakan : 
+	- Masalah : -
