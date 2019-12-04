@@ -8,7 +8,7 @@ Hari 1 (4 Desember 2019):
 
 2. Ijan P Panjaitan : 
 	- Kemarin Ngerjain : Mengedit beberapa slide di index.html
-	- Yang Dikerjakan : Menambahkan spesifikasi dan mengganti gambar pada file.html
+	- Yang Dikerjakan : Menambahkan spesifikasi dan mengganti gambar pada file index.html
 	- Masalah : -
 
 3. Nover Halomoan :
