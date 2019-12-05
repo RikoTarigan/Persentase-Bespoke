@@ -8,7 +8,7 @@ Hari 1 (4 Desember 2019):
 
 2. Ijan P Panjaitan : 
 	- Kemarin Ngerjain : Mengedit beberapa slide di index.html
-	- Yang Dikerjakan : Menambahkan spesifikasi dan mengganti gambar pada file index.html
+	- Yang Dikerjakan : Menambahkan spesifikasi, mengganti gambar, edit, membuat judul, dan menambahkan spesifikasi pada file index.html
 	- Masalah : -
 
 3. Nover Halomoan :
@@ -23,21 +23,21 @@ Hari 1 (4 Desember 2019):
 
 Hari 2 (5 Desember 2019)
 1. Riko Adrianto Tarigan
-	- Kemarin Ngerjain :  
+	- Kemarin Ngerjain : Memperbaiki format penulisan dan menambahkan file videos di file index.html
 	- Yang Dikerjakan : 
 	- Masalah : -
 
 2. Ijan P Panjaitan :
-	- Kemarin Ngerjain : 
+	- Kemarin Ngerjain : Menambahkan spesifikasi, mengganti gambar, edit, membuat judul, dan menambahkan spesifikasi pada file index.html
 	- Yang Dikerjakan : 
 	- Masalah : -
 
 3. Nover Halomoan :
-	- Kemarin Ngerjain : 
-	- Yang Dikerjakan : 
+	- Kemarin Ngerjain : Mengedit dibeberapa slide pada file index.html
+	- Yang Dikerjakan : Merubah bebarapa slide pada file index.html dan css
 	- Masalah : -
 
 4. Ferdinan Sitohang :
-	- Kemarin Ngerjain : 
-	- Yang Dikerjakan : 
+	- Kemarin Ngerjain : Buat judul pada slide 5 dan 6 di file index.html
+	- Yang Dikerjakan : Menambahkan dan mengedit kelebihan Nest Thermostat 
 	- Masalah : -
