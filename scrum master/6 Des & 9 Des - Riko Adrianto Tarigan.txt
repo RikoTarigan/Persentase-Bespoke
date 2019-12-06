@@ -3,21 +3,14 @@ Tanggal : 6 Desember dan 9 Desember 2019
 
 6 Desember : 
 Nover : 
--
--
--
+- Mengubah ukuran font dan memperbaiki setiap css setiap slide persentasi
 
 Teguh : 
--
--
--
+- Menambahkan Video Review (cara pemakaian) setiap fitur yang terdapat pada Nest Termostat
 
 Ijan : 
--
--
--
+-Mengurangi Teks semua slide. Cukup menggunakan 1 atau 2 kalimat yang disertai dengan gambar atau video
+
 
 Ferdinan : 
--
--
--
+- Menambahkan Slide Kekurangan / Kelebihan dan Keunggulan Nest Termostat
