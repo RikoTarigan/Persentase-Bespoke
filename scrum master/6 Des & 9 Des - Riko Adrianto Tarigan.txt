@@ -1,9 +1,27 @@
 Scrum Master  : Riko Adrianto Tarigan
 Tanggal : 6 Desember dan 9 Desember 2019
 
+9 Desember : 
+Nover : - Kemarin ngerjai :  memperbaiki setiap css setiap slide persentasi
+	- Yang dikerjakan : Mengubah ukuran font dan mempercantik tampilan slide persentasi
+	- Masalah : -
+
+Teguh : - Kemarin ngerjai : menambahkan video persentasi
+	- Yang dikerjakan : Menambahkan Video Review (cara pemakaian) setiap fitur yang terdapat pada Nest Termostat
+	- Masalah : Tidak dapat menambahkan video 
+
+Ijan : - Kemarin ngerjai : Mengurangi Teks semua slide.
+	- Yang dikerjakan :  mengurangi teks slide  menggunakan 1 atau 2 kalimat yang disertai dengan gambar atau video
+	- Masalah : penambahan video tidak dapat dilakukan karena format penulisan tidak sama seperti format html biasa
+
+Ferdinan : -  Kemaren ngerjai : Menambahkan Slide
+	   - Yang dikerjakan :  menambahkan slide Kekurangan / Kelebihan dan Keunggulan Nest Termostat
+	  - masalah : -
+
+
 6 Desember : 
 Nover : 
-- Mengubah ukuran font dan memperbaiki setiap css setiap slide persentasi
+- memperbaiki setiap css setiap slide persentasi
 
 Teguh : 
 - Menambahkan Video Review (cara pemakaian) setiap fitur yang terdapat pada Nest Termostat
