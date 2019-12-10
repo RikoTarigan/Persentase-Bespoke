@@ -2,21 +2,21 @@ Ferdinan R. Sitohang Sebagai Scrum Master (10 Desember - 11 Desember 2019) : Tas
 
 Hari 1 (10 Desember 2019):
 1. Riko Adrianto Tarigan :
-	- Kemarin Ngerjain :  
+	- Kemarin Ngerjain : Memperbaiki format penulisan, Menambah file vidoe auto away 
 	- Yang Dikerjakan : 
 	- Masalah : -
 
 2. Ijan P Panjaitan : 
-	- Kemarin Ngerjain : 
+	- Kemarin Ngerjain : : Mengurangi teks slide  menggunakan 1 atau 2 kalimat yang disertai dengan gambar atau video
 	- Yang Dikerjakan : 
 	- Masalah : -
 
 3. Nover Halomoan :
-	- Kemarin Ngerjain : 
+	- Kemarin Ngerjain : Mengubah ukuran font dan mempercantik tampilan slide persentasi 
 	- Yang Dikerjakan : 
 	- Masalah : -
 
 4. Teguh Dana Prayuda :
-	- Kemarin Ngerjain :
+	- Kemarin Ngerjain : Menambahkan Video Review (cara pemakaian) setiap fitur yang terdapat pada Nest Termostat
 	- Yang Dikerjakan : 
 	- Masalah : -
