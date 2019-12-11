@@ -20,3 +20,24 @@ Hari 1 (10 Desember 2019):
 	- Kemarin Ngerjain : Menambahkan Video Review (cara pemakaian) setiap fitur yang terdapat pada Nest Termostat
 	- Yang Dikerjakan : Memperbaiki desain yang tertimpah
 	- Masalah : -
+
+Hari 2 (11 Desember 2019):
+1. Riko Adrianto Tarigan :
+	- Kemarin Ngerjain : Mengedit index dan css dan memperbaiki tampilan
+	- Yang Dikerjakan : Mengganti background dan mempercantik tampilan
+	- Masalah : -
+
+2. Ijan P Panjaitan : 
+	- Kemarin Ngerjain : : Menambah gambar pertanyaan dan fix gambar yang tidak muncul
+	- Yang Dikerjakan : Menambah gambar dan mengganti tampilan awal
+	- Masalah : -
+
+3. Nover Halomoan :
+	- Kemarin Ngerjain : Edit index dan css, menambah gambar
+	- Yang Dikerjakan : Menambah slide, foto dan mengubah ukuran gambar
+	- Masalah : 
+
+4. Teguh Dana Prayuda :
+	- Kemarin Ngerjain : Memperbaiki desain yang tertimpah
+	- Yang Dikerjakan : Melakukan edit pada desain
+	- Masalah : -
