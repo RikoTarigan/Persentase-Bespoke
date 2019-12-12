@@ -23,7 +23,7 @@ img, video
   vertical-align middle
 
 .deck
-  
+  background-image url("images/bg.png")
   overflow hidden
   font-feature-settings "kern" 1
   text-rendering optimizeLegibility
@@ -43,11 +43,12 @@ img, video
 .bespoke-scale-parent, .bespoke-slide
   pointer-events none
 
+
 .bespoke-slide
   overflow hidden 
   // NOTE force opacity to start at 0 to avoid transition on load when using bespoke-scale
   opacity 0
-  background-color Lavender
+  background-image url("images/bg.png") no-repeat
   position absolute
   top 50%
   left 50%
